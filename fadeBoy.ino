@@ -28,3 +28,9 @@ void loop() {
   bright[i] = brightness;
   delay(delayTime);  
 }
+
+
+/*
+MIT license
+juanjofrelopez@gmail.com
+*/
